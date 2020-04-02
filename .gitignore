@@ -1,0 +1,8 @@
+*.pyc
+.idea/*
+*.zip
+build yolo/Data
+*.jpg
+templates/*
+*.h5
+MiAI_Yolo_1/*
